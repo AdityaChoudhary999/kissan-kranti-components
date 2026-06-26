@@ -6,7 +6,7 @@ This repository contains reusable UI components developed especially for the [Ki
 
 **Kissan Kranti Components** is a collection of modular, customizable components created to support and accelerate development for the [Kisan Kranti project](https://github.com/AmaanNaseh/kisan-kranti). These components ensure consistency in UI/UX and enable rapid feature-building for the main application.
 
-As a contributor to Kisan Kranti, I ([@AngryVanar](https://github.com/AngryVanar)) have developed and maintain these components for the project.
+As a contributor to Kisan Kranti, I  have developed and maintain these components for the project.
 
 ## Features
 
